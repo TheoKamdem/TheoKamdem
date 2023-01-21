@@ -4,7 +4,8 @@
 
 [![img_contact](/img/globe-light.svg)]
 
-![ExpressJs](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg 100x20)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" with="100" />
+![ExpressJs](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)
 <!--
 
 ### Connect with me:
