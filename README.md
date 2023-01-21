@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Theophile KAMDEM</h1>
-<h3 align="center">A passionate frontend developer from Cameroon</h3>
+<h3 align="center">A passionate  developer from Cameroon</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 
 - 🔭 I’m currently working At *****Solution QuicKDo Canada*****
@@ -27,5 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackmanba7&show_icons=true&locale=en" alt="blackmanba7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackmanba7&" alt="blackmanba7" /></p>
-<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" >
+<p><img align="right" alt="coding" width="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" ></p>
 
