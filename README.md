@@ -18,13 +18,10 @@ Languaes and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="55px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="55px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="55px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="55px" />
-                              
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="55px" />                              
 <!--
 ### Connect with me:
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ***Solution QuickDo Canada*** `#RRGGBB`
 - 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on ...
