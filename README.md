@@ -28,10 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackmanba7&" alt="blackmanba7" /></p>
   ### My Daily routine :
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" >
 
-```mermaid
-graph TD;
-    Code-->Eat;
-    Eat-->Sleep;
-    Sleep-->Code;
-    ```
