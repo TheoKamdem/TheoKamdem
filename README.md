@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![img_contact](/img/globe-light.svg)
-
-[![img_contact](/img/globe-light.svg)]
+Languaes and Tools:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55px" />         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="55px" />
           
