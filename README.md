@@ -27,3 +27,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackmanba7&show_icons=true&locale=en" alt="blackmanba7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackmanba7&" alt="blackmanba7" /></p>
+  ### My Daily routine :
+
+```mermaid
+graph TD;
+    Code-->Eat;
+    Eat-->Sleep;
+    Sleep-->Code;
+    ```
