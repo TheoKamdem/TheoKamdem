@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/theophilekamdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theophilekamdem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/théophile-kamdem-812834211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="théophile-kamdem-812834211" height="30" width="40" /></a>
+<p><img align="right" alt="coding" width="100" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  alt="blackmanba7" ></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,5 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackmanba7&show_icons=true&locale=en" alt="blackmanba7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackmanba7&" alt="blackmanba7" /></p>
-<p><img align="right" alt="coding" width="100" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  alt="blackmanba7" ></p>
 
