@@ -4,8 +4,7 @@
 
 [![img_contact](/img/globe-light.svg)]
 
-[!<img align="left" alt="AWS" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:11px; ](expressJs)
-          
+![ExpressJs](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)
 <!--
 
 ### Connect with me:
