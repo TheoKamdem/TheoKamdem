@@ -1,7 +1,15 @@
 ### Hi there 👋
 
+![img_contact](/img/globe-light.svg)
+
+[![img_contact](/img/globe-light.svg)]
+
+[<img  align="left" alt="AWS" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:11px; />]
+          
 <!--
-**KAMDEMQic/KAMDEMQic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Connect with me:
+
 
 Here are some ideas to get you started:
 
