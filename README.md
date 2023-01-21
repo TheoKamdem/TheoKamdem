@@ -17,6 +17,14 @@
 <p align="left">
 <a href="https://twitter.com/theophilekamdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theophilekamdem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/théophile-kamdem-812834211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="théophile-kamdem-812834211" height="30" width="40" /></a>
+  ### My Daily routine :
+
+```mermaid
+graph TD;
+    Code-->Eat;
+    Eat-->Sleep;
+    Sleep-->Code;
+    ```
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
