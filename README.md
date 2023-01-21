@@ -27,5 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackmanba7&show_icons=true&locale=en" alt="blackmanba7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackmanba7&" alt="blackmanba7" /></p>
-<p><img align="right" alt="coding" width="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" ></p>
+<p><img align="right" alt="coding" width="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  alt="blackmanba7" ></p>
 
