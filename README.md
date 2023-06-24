@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Cameroon</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 <!-- <img align="right" alt="coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif" >-->
-- 🔭 I’m currently working At ****Agrix Tech**** 
+- 🔭 I’m currently working At ****Agrix Tech****
 
 - 🌱 I’m currently learning ****DevOps****
 
@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theokamdem&" alt="theokamdem" /></p>
 
-<p><img align="center" alt="coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif"></p> 
+
