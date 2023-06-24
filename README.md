@@ -3,7 +3,9 @@
 <h3 align="center">A passionate developer from Cameroon</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
-- 🔭  I’m currently learning ****Agrix Tech****
+
+- 🔭 I’m currently working At *****Agrix Tech*****
+
 - 🌱 I’m currently learning ****DevOps****
 
 - 💬 Ask me about **Flutter,Vuejs, MERN,Docker**
