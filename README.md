@@ -1,4 +1,4 @@
-<!--[![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif)](https://rishavchanda.io) -->
+<!--[![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2023/01/05114244/DevOps-Challenges.gif)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Theophile KAMDEM</h1>
 <h3 align="center">A passionate developer from Cameroon</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
