@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Flutter,Vuejs, MERN,Docker**
 
-- 📫 How to reach me **Theophilekamdem237@gmail.com**
+- 📫 How to reach me **youngtheophile@gmail.com**
 
 - 📄 Know about my experiences [https://cvdesignr.com/p/63622d2b6590a](https://cvdesignr.com/p/63622d2b6590a)
 
