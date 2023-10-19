@@ -1,6 +1,6 @@
 [![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2023/01/05114244/DevOps-Challenges.gif)](https://rishavchanda.io) 
 <h1 align="center">Hi 👋, I'm Theophile KAMDEM</h1>
-<h3 align="center">A passionate developer from Cameroon</h3>
+<h3 align="center">A passionate developer/DevOps from Cameroon</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 
@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning ****DevOps****
 
-- 💬 Ask me about **Flutter,Vuejs, MERN,Docker**
+- 💬 Ask me about **Flutter,Vuejs, MERN,Docker, JenKins**
 
 - 📫 How to reach me **youngtheophile@gmail.com**
 
-- 📄 Know about my experiences [https://cvdesignr.com/p/63622d2b6590a](https://cvdesignr.com/p/63622d2b6590a)
+- 📄 Know about my experiences [https://cvdesignr.com/p/652ff4de44f37](https://cvdesignr.com/p/652ff4de44f37)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
