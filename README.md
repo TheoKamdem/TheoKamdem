@@ -22,19 +22,24 @@
   <!-- 💻 Tech Stack: -->
 
   <h3>🚀 DevOps & Cloud Technologies:</h3>
+  
   <p>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="transform: scale(0.5);">
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" style="transform: scale(0.5);">
     <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" style="transform: scale(0.5);">
     <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="Digital Ocean" style="transform: scale(0.5);">
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" style="transform: scale(0.5);">
-    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" style="transform: scale(0.5);">
   </p>
-
-  <h3>🛠 CI/CD & Containerization:</h3>
+  <h3>📊 Infrastructure as Code:</h3>
   <p>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="transform: scale(0.5);">
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="transform: scale(0.5);">
+    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" style="transform: scale(0.5);">
+    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" style="transform: scale(0.5);">
+    <img src="https://img.shields.io/badge/ansible-%231A5C3D.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" style="transform: scale(0.5);">
+  </p>
+  <h3>🛠 CI/CD:</h3>
+  <p>
     <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" style="transform: scale(0.5);">
     <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" style="transform: scale(0.5);">
     <img src="https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" style="transform: scale(0.5);">
@@ -77,11 +82,5 @@
     <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" style="transform: scale(0.5);">
   </p>
 
-  <h3>📊 Infrastructure as Code:</h3>
-  <p>
-    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" style="transform: scale(0.5);">
-    <img src="https://img.shields.io/badge/ansible-%231A5C3D.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" style="transform: scale(0.5);">
-  </p>
 </div>
 <br>
----
