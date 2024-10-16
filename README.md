@@ -1,6 +1,6 @@
 <!-- # 💫 About Me: -->
 <br>
-<div align="center">
+
   <h1 style="font-size: 1.5rem;">Hi 👋, I'm Theophile KAMDEM</h1><br>
   <h3 style="font-size: 1rem;">A passionate developer/DevOps from Cameroon</h3><br><br>
   <img alt="coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br>
@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="transform: scale(0.5);">
     </a>
   </p>
-
+<div align="center">
   <!-- 💻 Tech Stack: -->
 
   <h3>🚀 DevOps & Cloud Technologies:</h3>
