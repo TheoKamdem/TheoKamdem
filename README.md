@@ -10,9 +10,9 @@
       - How to reach me <b>youngtheophile@gmail.com</b>
     </p>
   </div>
-  <div style="flex: 1; text-align: right;">
+<!--   <div style="flex: 1; text-align: right;">
     <img alt="coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  </div>
+  </div> -->
 </div>
 
 
