@@ -1,14 +1,19 @@
 <!-- # 💫 About Me: -->
-<h1 style="font-size: 1.5rem;">Hi, I'm Theophile KAMDEM</h1>
-<h3 style="font-size: 1rem;">A passionate developer/DevOps from Cameroon</h3>
-<p style="font-size: 0.75rem;">
-  - I’m currently working At <b>Agrix Tech</b><br><br>
-  - I’m currently learning <b>DevOps</b><br><br>
-  - Ask me about <b>Flutter, Vuejs, MERN, Docker, Jenkins, GitLab CI</b><br><br>
-  - How to reach me <b>youngtheophile@gmail.com</b>
-</p>
-<img alt="coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right">
-
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+  <div style="flex: 1;">
+    <h1 style="font-size: 1.5rem;">Hi, I'm Theophile KAMDEM</h1>
+    <h3 style="font-size: 1rem;">A passionate developer/DevOps from Cameroon</h3>
+    <p style="font-size: 0.75rem;">
+      - I’m currently working At <b>Agrix Tech</b><br><br>
+      - I’m currently learning <b>DevOps</b><br><br>
+      - Ask me about <b>Flutter, Vuejs, MERN, Docker, Jenkins, GitLab CI</b><br><br>
+      - How to reach me <b>youngtheophile@gmail.com</b>
+    </p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img alt="coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  </div>
+</div>
 
   <!-- 🌐 Socials: -->
   <h3 style="font-size: 1rem;">🌐 Socials:</h3>
@@ -49,11 +54,11 @@
   <h3>💻 Programming Languages:</h3>
   <p>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="transform: scale(0.5);">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="transform: scale(0.5);">
+<!--     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="transform: scale(0.5);"> -->
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="transform: scale(0.5);">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="transform: scale(0.5);">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="transform: scale(0.5);">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="transform: scale(0.5);">
+<!--     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="transform: scale(0.5);"> -->
     <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="transform: scale(0.5);">
   </p>
 
