@@ -1,5 +1,5 @@
 <!-- # 💫 About Me: -->
-<div style="display: flex; flex-direction: row; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <h1 style="font-size: 1.5rem;">Hi, I'm Theophile KAMDEM</h1>
     <h3 style="font-size: 1rem;">A passionate developer/DevOps from Cameroon</h3>
@@ -14,6 +14,7 @@
     <img alt="coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   </div>
 </div>
+
 
   <!-- 🌐 Socials: -->
   <h3 style="font-size: 1rem;">🌐 Socials:</h3>
