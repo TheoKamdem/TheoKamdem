@@ -1,6 +1,6 @@
 <!-- # 💫 About Me: -->
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 20px;"> <!-- Ajout d'une marge à droite pour l'espacement -->
     <h1 style="font-size: 1.5rem;">Hi, I'm Theophile KAMDEM</h1>
     <h3 style="font-size: 1rem;">A passionate developer/DevOps from Cameroon</h3>
     <p style="font-size: 0.75rem;">
@@ -14,6 +14,7 @@
     <img alt="coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   </div>
 </div>
+
 
 
   <!-- 🌐 Socials: -->
