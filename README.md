@@ -1,11 +1,37 @@
- 
 <!-- # 💫 About Me: -->
 <!-- [![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2023/01/05114244/DevOps-Challenges.gif)](https://rishavchanda.io) -->
- <br><h1 align="center">Hi 👋, I'm Theophile KAMDEM</h1><br><h3 align="center">A passionate developer/DevOps from Cameroon</h3><br><br><img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" ><br><br>- 🔭 I’m currently working At *****Agrix Tech*****<br><br>- 🌱 I’m currently learning ****DevOps****<br><br>- 💬 Ask me about **Flutter,Vuejs, MERN,Docker, JenKins, GitLab CI**<br><br>- 📫 How to reach me **youngtheophile@gmail.com**<br>
- <!-- <br>- 📄 Know about my experiences [https://cvdesignr.com/p/652ff4de44f37](https://cvdesignr.com/p/652ff4de44f37) -->
+
+<style>
+  /* Réduction de la taille des textes à 50% */
+  h1, h3, p, a {
+    font-size: 50%;
+  }
+
+  /* Réduction de la taille des icônes à 50% */
+  img, .badge {
+    transform: scale(0.5);
+    transform-origin: center;
+  }
+</style>
+
+<br>
+<h1 align="center">Hi 👋, I'm Theophile KAMDEM</h1>
+<br>
+<h3 align="center">A passionate developer/DevOps from Cameroon</h3>
+<br><br>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
+<br><br>
+- 🔭 I’m currently working At *****Agrix Tech*****
+<br><br>
+- 🌱 I’m currently learning ****DevOps****
+<br><br>
+- 💬 Ask me about **Flutter, Vuejs, MERN, Docker, Jenkins, GitLab CI**
+<br><br>
+- 📫 How to reach me **youngtheophile@gmail.com**
+<br>
 
 ## 🌐 Socials:
-<h3 align="center">  🌐 Socials:</h3>
+<h3 align="center"> 🌐 Socials:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theokamdem)
 
@@ -59,13 +85,3 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<!--
-<div align="center">
-  <h3>📊 GitHub Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=TheoKamdem&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheoKamdem&theme=react&hide_border=false" alt="GitHub Streak Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoKamdem&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</div>
- -->
