@@ -3,7 +3,7 @@
 <h3 align="center" style="font-size: 1rem;">A passionate developer/DevOps from Cameroon</h3><br><br>
 <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br>
 <p style="font-size: 0.75rem;">
-  - 🔭 I’m currently working At *****Agrix Tech*****<br><br>
+  - 🔭 I’m currently working At ******Agrix Tech******<br><br>
   - 🌱 I’m currently learning ****DevOps****<br><br>
   - 💬 Ask me about **Flutter,Vuejs, MERN,Docker, JenKins, GitLab CI**<br><br>
   - 📫 How to reach me **youngtheophile@gmail.com**
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="transform: scale(0.5);">
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="transform: scale(0.5);">
     <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" style="transform: scale(0.5);">
-    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" style="transform: scale(0.5);">
+<!--     <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" style="transform: scale(0.5);"> -->
     <img src="https://img.shields.io/badge/ansible-%231A5C3D.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" style="transform: scale(0.5);">
   </p>
   <h3>🛠 CI/CD:</h3>
