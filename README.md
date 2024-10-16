@@ -59,7 +59,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+<!--
 <div align="center">
   <h3>📊 GitHub Stats:</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=TheoKamdem&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
@@ -68,3 +68,4 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoKamdem&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
+ -->
