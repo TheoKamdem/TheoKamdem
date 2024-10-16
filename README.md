@@ -1,15 +1,14 @@
 <!-- # 💫 About Me: -->
-<br>
+<h1 style="font-size: 1.5rem;">Hi, I'm Theophile KAMDEM</h1>
+<h3 style="font-size: 1rem;">A passionate developer/DevOps from Cameroon</h3>
+<p style="font-size: 0.75rem;">
+  - I’m currently working At <b>Agrix Tech</b><br><br>
+  - I’m currently learning <b>DevOps</b><br><br>
+  - Ask me about <b>Flutter, Vuejs, MERN, Docker, Jenkins, GitLab CI</b><br><br>
+  - How to reach me <b>youngtheophile@gmail.com</b>
+</p>
+<img alt="coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right">
 
-  <h1 style="font-size: 1.5rem;">Hi 👋, I'm Theophile KAMDEM</h1><br>
-  <h3 style="font-size: 1rem;">A passionate developer/DevOps from Cameroon</h3><br><br>
-  <img alt="coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br>
-  <p style="font-size: 0.75rem;">
-    - 🔭 I’m currently working At *****Agrix Tech*****<br><br>
-    - 🌱 I’m currently learning ****DevOps****<br><br>
-    - 💬 Ask me about **Flutter, Vuejs, MERN, Docker, Jenkins, GitLab CI**<br><br>
-    - 📫 How to reach me **youngtheophile@gmail.com**
-  </p>
 
   <!-- 🌐 Socials: -->
   <h3 style="font-size: 1rem;">🌐 Socials:</h3>
