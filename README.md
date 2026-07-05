@@ -3,7 +3,7 @@
 <h3 align="center" style="font-size: 1rem;">A passionate developer/DevOps from Cameroon</h3><br><br>
 <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br>
 <p style="font-size: 0.75rem;">
-  - 🔭 I’m currently working At ***Agrix Tech***<br><br>
+  - 🔭 I’m currently working At ***Famla AI***<br><br>
   - 🌱 I’m currently learning ***DevOps***<br><br>
   - 💬 Ask me about **Flutter,Vuejs, MERN,Docker, JenKins, GitLab CI**<br><br>
   - 📫 How to reach me **youngtheophile@gmail.com**
